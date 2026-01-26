@@ -1,9 +1,1 @@
-<html>
-  <head>
-    <title> EduMaker </title>
-  </head>
-  
-  <body> 
-  
-</body>
-</html>
+
