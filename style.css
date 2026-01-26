@@ -1,6 +1,9 @@
 h2 {
-color: blue;
+    display: inline-block;
+color: white;
 font-size: 40px;
-margin: 20px;
+margin-left: 700px;
+    background-color: deepskyblue;
+    
 
 }
