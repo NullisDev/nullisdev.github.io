@@ -1,6 +1,8 @@
 <html>
 <body> 
-  <title> EduMaker </title>
-</body>
   
+</body>
+  <head>
+    <title> EduMaker </title>
+  </head>
 </html>
