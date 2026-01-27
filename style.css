@@ -7,9 +7,10 @@ margin-left: 650px;
     
 
 }
-a {
+a:not(.topser) {
     display: inline-block;
     color: white;
     font-size: 40;
     background-color: deepskyblue;
 }
+
