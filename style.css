@@ -7,11 +7,22 @@ margin-left: 650px;
     
 
 }
-.topser {
+.liberal {
     display: inline-block;
     color: white;
     font-size: 40;
     background-color: deepskyblue;
+    position: absolute;
+    left: 50px;
 }
+.right {
+    display: inline-block;
+    color: white;
+    font-size: 40;
+    background-color: deepskyblue;
+    position: absolute;
+    right: 50px;
+}
+
 
 
