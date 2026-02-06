@@ -25,6 +25,10 @@ margin-left: 650px;
     right: 50px;
     bottom: 350px;
 }
+img {
+scale: 0.5;
+    left: 80px;
+}
 
 
 
